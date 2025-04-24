@@ -17,11 +17,14 @@ This repository contains guidelines and code examples for developing resilient c
 3. [Circuit Breaker Pattern](docs/03-circuit-breaker-pattern.md)
 4. [Timeout & Cancellation Patterns](docs/04-timeout-cancellation.md)
 5. [Bulkhead Pattern](docs/05-bulkhead-pattern.md)
-6. [Fallback Pattern](docs/06-fallback-pattern.md)
-7. [Cache-Aside Pattern](docs/07-cache-aside-pattern.md)
-8. [Throttling & Rate Limiting](docs/08-throttling-rate-limiting.md)
-9. [Health Monitoring & Logging](docs/09-health-monitoring-logging.md)
-10. [Resiliency Testing](docs/10-resiliency-testing.md)
+6. [Saga Pattern](docs/06-saga-pattern.md)
+7. [Graceful Degradation Pattern](docs/07-graceful-degradation-pattern.md)
+8. [Queue-Based Load Leveling](docs/08-queue-based-load-leveling.md)
+9. [Chaos Engineering](docs/09-chaos-engineering.md)
+10. [API Versioning](docs/10-api-versioning.md)
+11. [Data Replication & Consistency](docs/11-data-replication-consistency.md)
+12. [Sharding Pattern](docs/12-sharding-pattern.md)
+13. [Event Sourcing](docs/13-event-sourcing.md)
 
 ## Code Examples
 
