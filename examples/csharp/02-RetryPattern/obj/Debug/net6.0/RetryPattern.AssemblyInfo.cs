@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetryPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7718f37c0417f316acba440a2cd6e90cb35889b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18c519fc12ab682f28fd60ca195b5685917c7e08")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetryPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetryPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
